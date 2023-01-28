@@ -1,0 +1,12 @@
+body{
+
+    background: linear-gradient(to right, lightblue, yellow) ;
+    /* background: linear-gradient(to right, lightblue, yellow); */
+}
+
+.img-class{
+
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
